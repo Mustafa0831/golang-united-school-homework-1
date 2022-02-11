@@ -1,4 +1,4 @@
-package solution
+package main
 
 import (
 	"fmt"
@@ -6,10 +6,10 @@ import (
 	"github.com/kyokomi/emoji"
 )
 
-// func main() {
-// 	PrintS()
-// 	// fmt.Println("ss")
-// }
+func main() {
+	PrintS()
+	// fmt.Println("ss")
+}
 
 func PrintS() string {
 	fmt.Println("Hello 🗺️ !")
